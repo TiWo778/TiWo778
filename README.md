@@ -12,9 +12,9 @@ I'm a Computer science student at [Karlsruher Institute of Technology ](https://
 
 #### Frameworks:
 ![Spring](https://img.shields.io/badge/Spring-6EB442?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![PyQt](https://img.shields.io/badge/Qt-3777A7?style=for-the-badge&logo=qt&logoColor=white)&nbsp;
-![tensorflow](https://img.shields.io/badge/Tensorflow-3777A7?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![pandas](https://img.shields.io/badge/pandas-3777A7?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![PyQt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)&nbsp;
+![tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
 #### Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
