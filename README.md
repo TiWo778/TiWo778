@@ -20,7 +20,7 @@ I'm a Computer science student at [Karlsruher Institute of Technology ](https://
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Overleaf](https://img.shields.io/badge/Overleaf-6EB442?style=for-the-badge&logo=overleaf&logoColor=white)&nbsp;
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)&nbsp;
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tiwo778&show_icons=true&hide_border=true&theme=transparent)
