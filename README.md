@@ -1,6 +1,6 @@
 ## Hi there, I'm Tim <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Computer science student at [Karlsruher Institute of Technology ](https://kit.edu), currently the third semester of my masters.
+I'm a Computer science student at [Karlsruher Institute of Technology ](https://kit.edu), currently the fourth semester of my masters degree.
 
 ### Languages and Tools:
 
